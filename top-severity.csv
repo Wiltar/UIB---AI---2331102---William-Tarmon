@@ -1,0 +1,11 @@
+headache_days,location,severity,severity_score,severity_category,severity_trend
+13,forehead,moderate,8.916666666666666,Severe,Sesuai
+18,orbital,severe,8.916666666666666,Severe,Sesuai
+29,bilateral,severe,8.916666666666666,Severe,Sesuai
+24,orbital,severe,8.916666666666666,Severe,Sesuai
+10,unilateral,moderate,8.916666666666666,Severe,Sesuai
+14,bilateral,severe,8.916666666666666,Severe,Sesuai
+10,orbital,mild,8.916666666666666,Severe,Sesuai
+30,orbital,severe,8.916666666666666,Severe,Sesuai
+11,forehead,moderate,8.916666666666666,Severe,Sesuai
+17,orbital,severe,8.916666666666666,Severe,Sesuai
